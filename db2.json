@@ -1,5 +1,4 @@
-posts: {
-  [
+posts:[
     {
         "id": 1,
         "title": "hello"
@@ -13,4 +12,3 @@ posts: {
         "title": "hi"
     }
 ]
-}
